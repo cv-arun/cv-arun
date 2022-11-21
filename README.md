@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on node js and React js projects 
 - 📫 reach me on Liked in 
 - https://linkedin.com/in/cvarun98 or 
+- visit my portfolio
 - https://aruncv-portfolio.netlify.app/
 
 <!---
