@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arun cv
 - 👀 I’m sef-taught MERN stack developer
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning Microservices 
 - 💞️ I’m looking to collaborate on node js and React js projects 
 - 📫 reach me on Liked in 
 - https://linkedin.com/in/cvarun98 or 
