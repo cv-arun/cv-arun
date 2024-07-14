@@ -2,10 +2,14 @@
 - 👀 I’m sef-taught MERN stack developer
 - 🌱 I’m currently learning Microservices 
 - 💞️ I’m looking to collaborate on node js and React js projects 
-- 📫 reach me on Liked in 
-- https://linkedin.com/in/cvarun98 or 
-- visit my portfolio
+- 📫 reach me on Linkedin 
+
+- https://linkedin.com/in/cvarun98
 - https://aruncv-portfolio.netlify.app/
+
+---------------------------------------------------------------------------------------------------------
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=cv-arun&theme=dark&hide_border=false)<br/>
 
 <!---
 cv-arun/cv-arun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
