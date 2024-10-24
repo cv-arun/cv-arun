@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arun cv
-- 👀 I’m sef-taught MERN stack developer
+- 👀 I’m sef-taught fullstack developer
 - 🌱 I’m currently learning Microservices 
 - 💞️ I’m looking to collaborate on node js and React js projects 
 - 📫 reach me on Linkedin 
